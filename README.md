@@ -1,2 +1,4 @@
-# Tryhacme
-Kenobi WriteUp
+JS_Project
+*Learning in the process*
+
+
